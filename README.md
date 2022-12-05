@@ -3,5 +3,8 @@ DB Excel Data Manager is built using Microsoft Excel and allows data from databa
 Excel Worksheets. Database table schema details can also be viewed. 
 
 DB Excel Data Manager is distributed in the hope that it will be useful for assisting with database systems administration and 
-legacy application automation (e.g., for regression testing). 
+legacy application automation (e.g., for regression testing).
+
+To get started, download the DB_DataManager.xlsb workbook and Northwind.accdb into a folder and open the workbook.
+
 
