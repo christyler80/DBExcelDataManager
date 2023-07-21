@@ -33,8 +33,6 @@ Where possible, please use Northwind or Pubs database examples to report any err
 
 Important: At this time: 
 
-	PuttyDriver will only work with 32-bit versions of Microsoft Excel 2016 or later. 
-
 	Microsoft Excel 64-bit versions are not currently supported. 
 
 	32-bit or 64-bit versions of Microsoft Windows 10 or Windows 11 operating system are supported. 
