@@ -21,7 +21,7 @@ DB Data Manager is distributed in the hope that it will be useful, but WITHOUT A
 implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License 
 for more details. 
 
-The project files with source code can be found at https://github.com/christyler80/DB_DataManager. 
+The project files with source code can be found at https://github.com/christyler80/DBExcelDataManager. 
 
 DB Data Manager requires Microsoft Excel 2016 or later and supports SQL Server, SQLite, ODBC (32bit) and Microsoft 
 Access. 
